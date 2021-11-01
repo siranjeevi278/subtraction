@@ -8,5 +8,6 @@ int e=a*b;
 int c=a-b;
 printf("%f",a/b);
 printf("%d",c);
+printf("successfully comleted");
 }
 
